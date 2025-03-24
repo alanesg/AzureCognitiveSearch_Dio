@@ -6,13 +6,13 @@ alimentada por IA do Azure.
 * PRIMEIRO PASSO: 
 Ingestão de dados e podemos utilizar as seguintes aplicações para isso:
 
-- Azure Blob Storage Containers:
+-- Azure Blob Storage Containers:
 Ele conhece qualquer tipo de documento, imagem, vídeo.
 
-- Azure Data Lake Storage Gen2:
+-- Azure Data Lake Storage Gen2:
 repositório de dados
 
-- Azure Table Storage 
+-- Azure Table Storage 
 trabalha em cima das tabelas.
 
 * SEGUNDO PASSO: 
